@@ -1,9 +1,9 @@
 ##Problem 1
 hisAge = int(input("How old are you?: "))
 if hisAge > 18:
-print("You can drive a car!!")
+  print("You can drive a car!!")
 else:
-print("You can't drive a car...")
+  print("You can't drive a car...")
 
 
 ##Problem 2
