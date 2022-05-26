@@ -1,4 +1,4 @@
-# Problem 1
+# Problem 1 - assignment7
 # Write a function which take a list of number as an input parameter 
 # and find the second maximum of the list. The second maximum is a number 
 # which is bigger than or equal to all numbers but smaller than the maximum of the list.
