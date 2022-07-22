@@ -1,1 +1,1 @@
-# wmad-class
+# wmad-class Python
